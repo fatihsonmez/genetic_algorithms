@@ -1,1 +1,1 @@
-sometimes gui button goes fullscreen but it is not designed in that way.
+This project maximize a function under constraints by using different genetic algorithm technics in a multithreaded way.
